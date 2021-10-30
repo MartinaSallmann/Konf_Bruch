@@ -19,7 +19,7 @@ public class Bruch {
 
     public double toDecimal() {
 
-        return double numerator/ double denominator;
+        return (double) numerator/ (double) denominator;
     }
 
     public String print() {
